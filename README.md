@@ -3,4 +3,4 @@ This repository is the dedicated to establish the catalog of virtual assets prov
 
 __Asset Administration Shell Develpoment Tool__
 
-There are several tools to develop AAS packages, the [Eclipse AASX Package Explorer™](https://github.com/eclipse-aaspe/package-explorer) seems to be more user-freindly providing a graphical user interface for developing version 3 AAS packages (AAS V3) while for developing or viewing version 2 of AAS packages (AAS V2), [AASX Package Explorer](https://github.com/eclipse-aaspe/package-explorer/tree/V2)can be used.
+There are several tools to develop AAS packages, the [Eclipse AASX Package Explorer™](https://github.com/eclipse-aaspe/package-explorer) seems to be more user-freindly providing a graphical user interface for developing version 3 AAS packages (AAS V3) while for developing or viewing version 2 of AAS packages (AAS V2), [AASX Package Explorer](https://github.com/eclipse-aaspe/package-explorer/tree/V2) can be used.
